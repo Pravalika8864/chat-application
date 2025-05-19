@@ -1,11 +1,10 @@
-
-
-
-
-
-
-
-
+**COMPANY: CODETECH IT SOLUTIONS
+NAME: Pravalika Lakkam
+INTERN ID:CT06DA407
+DOMAIN:FULL STACK DEVELOPMENT
+DURATION: 6 WEEKS
+MENTOR: NEELA SANTOSH**
+**Task 2:Chat application**
 
 This project is a real-time private chat application designed to facilitate one-on-one communication between users in a seamless and interactive
 web environment. Built using a modern technology stack that includes HTML, CSS, JavaScript for the frontend, and Node.js with Express and Socket.IO
