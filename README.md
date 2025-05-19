@@ -27,4 +27,4 @@ It also lays the groundwork for more advanced features such as message persisten
 The modular structure and clear separation between client-side and server-side logic make it easy to extend and maintain. Overall, this project showcases how to
 build a fully functional, real-time, private messaging platform using modern web technologies.  
 # output  
-![Image](https://github.com/user-attachments/assets/54613949-f5a3-4b0f-a955-bf4a3e063aa2)
+![Image](https://github.com/user-attachments/assets/f77d9b22-5908-40f2-9f2b-8b79c617673a)
