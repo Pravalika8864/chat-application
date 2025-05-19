@@ -27,3 +27,5 @@ This chat application serves as an ideal learning project for understanding real
 It also lays the groundwork for more advanced features such as message persistence, user authentication, typing indicators, read receipts, or even group chats. 
 The modular structure and clear separation between client-side and server-side logic make it easy to extend and maintain. Overall, this project showcases how to
 build a fully functional, real-time, private messaging platform using modern web technologies.
+# output
+![Image](https://github.com/user-attachments/assets/54613949-f5a3-4b0f-a955-bf4a3e063aa2)
